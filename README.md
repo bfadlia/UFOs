@@ -12,7 +12,7 @@ The purpose of this project is to have a webpage that presents a dynamic table o
 ## Results
 
 
-###The webpage provides the UFO data in organized in the following table format:
+### The webpage provides the UFO data in organized in the following table format:
 -  Date
 -  City	
 -  State	
@@ -22,7 +22,7 @@ The purpose of this project is to have a webpage that presents a dynamic table o
 -  Witness comments
 
 
-Nice styling is achieved with CSS as seen below
+### Nice styling is achieved with CSS as seen below
 
 ![IMAGE_DESCRIPTION](/static/images/screen.png)
 
